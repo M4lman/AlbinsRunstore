@@ -109,3 +109,4 @@ C:\Users\albma\RunStore-starter\Client\bin\Debug\net10.0\Microsoft.Extensions.Fi
 C:\Users\albma\RunStore-starter\Client\bin\Debug\net10.0\Microsoft.Extensions.FileProviders.Physical.dll
 C:\Users\albma\RunStore-starter\Client\bin\Debug\net10.0\Microsoft.Extensions.FileSystemGlobbing.dll
 C:\Users\albma\RunStore-starter\Client\bin\Debug\net10.0\Microsoft.Extensions.Primitives.dll
+C:\Users\albma\RunStore-starter\Client\obj\Debug\net10.0\Client.sourcelink.json
